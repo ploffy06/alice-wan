@@ -1,0 +1,31 @@
+.NavBar-title {
+    margin-left: 30px;
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+.NavBar {
+    margin: 20px;
+    display: flex;
+    height: 60px;
+    border-bottom: 3px solid black;
+}
+
+.NavBar > header {
+    font-size: 20px;
+    padding: 20px;
+    background: rgb(200, 231, 250);
+    margin-left: 20px;
+    border-top: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+
+    border-top-right-radius: 1vw;
+    border-top-left-radius: 1vw;
+}
+
+.NavBar > header:hover {
+    cursor: grab;
+    background: white;
+}
+

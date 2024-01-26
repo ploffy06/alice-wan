@@ -1,0 +1,30 @@
+.ReviewCard {
+    margin: 7.5px;
+    padding: 20px;
+
+    width: 20vw;
+    height: 30vh;
+
+    border: 1px solid black;
+    border-bottom: 3px solid black;
+    border-right: 3px solid black;
+
+    overflow: auto;
+}
+
+
+.ReviewCard > h2 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.ReviewCard > h3 {
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+
+.ReviewCard > h4 {
+    margin-top: 5px;
+    margin-bottom: 0px;
+
+}
