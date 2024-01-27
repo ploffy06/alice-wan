@@ -26,6 +26,6 @@
 
 .NavBar > header:hover {
     cursor: grab;
-    background: white;
+    background: rgb(255, 255, 238);
 }
 

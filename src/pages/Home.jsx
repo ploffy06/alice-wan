@@ -6,7 +6,7 @@ const Home = () => {
         <div>
             <NavBar />
             <div className="Home">
-                <header>Hello. My name is Alice. Welcome to wan.derland...</header>
+                <header>Hello. My name is Alice.</header>
             </div>
         </div>
     )

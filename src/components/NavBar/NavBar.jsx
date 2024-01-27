@@ -12,9 +12,10 @@ const NavBar = () => {
 
     return (
         <div className="NavBar">
-            <div className="NavBar-title">wan.derland</div>
+            <div className="NavBar-title">A_wan.derland</div>
             <header onClick={() => {setPath('/')}}>Home</header>
             <header onClick={() => {setPath('/BookReview')}}>Book Review</header>
+            <header onClick={() => {setPath('/BookReview')}}>Short Stories</header>
         </div>
     )
 }
