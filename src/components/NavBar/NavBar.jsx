@@ -12,10 +12,10 @@ const NavBar = () => {
 
     return (
         <div className="NavBar">
-            <div className="NavBar-title">A_wan.derland</div>
+            <div className="NavBar-title">wan</div>
             <header onClick={() => {setPath('/')}}>Home</header>
             <header onClick={() => {setPath('/BookReview')}}>Book Review</header>
-            <header onClick={() => {setPath('/BookReview')}}>Short Stories</header>
+            <header onClick={() => {setPath('/MovieReview')}}>Movie Review</header>
         </div>
     )
 }
