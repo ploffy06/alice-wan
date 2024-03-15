@@ -125,4 +125,15 @@ export const bookReviewsData = [
       I learnt a lot reading this book.
       `
     },
+    {
+      title: "Entangled Life: How Fungi Make Our Worlds, Change Our Minds and Shape Our Futures",
+      author_firstname: "Merlin",
+      author_lastname: "Sheldrake",
+      rating: 2,
+      tags: ["non-fiction"],
+      description: `
+      The ideas, concept and science of fungi life is increidbly interesting. However, to me the book fell short of the actual facts and science
+      and seems to go into too much dramatization of the ideas. I felt quite disappointed reading this.
+      `
+    },
   ];

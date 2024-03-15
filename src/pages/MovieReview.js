@@ -11,7 +11,8 @@ const MovieReview = () => {
     const [booksToDisplay, setBooksToDisplay] = useState([]);
 
     useEffect(() => {
-      const sortedmovieReviewsData = movieReviewsData.slice().sort((a, b) => a.title.localeCompare(b.title));
+        const sortedmovieReviewsData = movieReviewsData.slice().sort((a, b) => a.year - b.year);
+    //   const sortedmovieReviewsData = movieReviewsData.slice().sort((a, b) => a.title.localeCompare(b.title));
 
       const startIndex = (currentPage - 1) * itemsPerPage;
       const endIndex = startIndex + itemsPerPage;
@@ -41,6 +42,7 @@ const MovieReview = () => {
             <ReviewCard
               key={index}
               title={review.title}
+              year={review.year}
               rating={review.rating}
               description={review.description}
             />

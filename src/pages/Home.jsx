@@ -7,7 +7,7 @@ const Home = () => {
             <NavBar />
             <div className="Home">
                 <header>Hello. My name is Alice.</header>
-                <p>In my free time, I like to read books and watch movies. Hence my book and movie reviews.</p>
+                <p>In my free time, I like to read books and watch movies.</p>
             </div>
         </div>
     )
