@@ -1,0 +1,30 @@
+.showcase {
+    margin-left: 5vw;
+    margin-right: 5vw;
+
+    margin-top: 2.5vh;
+    height: 65vh;
+
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 10px 10px;
+}
+
+.project {
+    border: 1px solid black;
+    background: yellow;
+    width: calc(100% - 20px);
+}
+
+/* .main-side {
+    background: green;
+} */
+
+.project header {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.project p {
+    font-size: 15px;
+}

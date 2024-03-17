@@ -5,10 +5,7 @@
     width: 20vw;
     height: 30vh;
 
-    border: 1px solid black;
-    border-bottom: 3px solid black;
-    border-right: 3px solid black;
-
+    border: 1.75px solid black;
     overflow: auto;
 }
 

@@ -12,7 +12,6 @@ const NavBar = () => {
 
     return (
         <div className="NavBar">
-            <div className="NavBar-title">alice wan</div>
             <header onClick={() => {setPath('/')}}>Home</header>
             <header onClick={() => {setPath('/BookReview')}}>Book Review</header>
             <header onClick={() => {setPath('/MovieReview')}}>Movie Review</header>
