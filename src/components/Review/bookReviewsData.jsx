@@ -6,9 +6,8 @@ export const bookReviewsData = [
       rating: 2.5,
       tags: ["fiction"],
       description: `
-      Though I assume that the war and training scenes were described in an almost robotic manner to emphasise
-      the rapidity of the military and war, I found it mediocre and difficult to evoke strong imagery.
-      I did, however, enjoy the parts where Mandella was on Earth or the planet Heaven, away from the war (ironic).
+      An interesting portrayal of military and war in an alien context with concept of time dilation to hone in on the idea
+      if the way being "forever".
       `
     },
     {
@@ -18,12 +17,8 @@ export const bookReviewsData = [
       rating: 4,
       tags: ["fiction"],
       description: `
-      Beautiful. The langauge used was evocative and I especially adored the imagery for Akiko's mystic appearance.
-      I enjoyed the bizzareness of UFOs and each member coming from a different planet.
-
-      However, I wish the book delved more into where the UFOs came from and what it meant for the Osugi family to
-      have come from different planets. I also sensed that the ending was rushed and ended in a way that it
-      felt as though the book was unfinished. But, for me, Yukio's writing made up for this unsatisfying ending.
+      Beautiful. A very evocative and bizarre story with UFOs and an alient family. I also adore the mystic imagery of Akiko's
+      appearance.
       `
     },
     {
@@ -35,7 +30,7 @@ export const bookReviewsData = [
       description: `
       I love this book. Murakami's style of writing is elegant, evocative and descriptive such that
       when I read, its as though my eyes are gliding along each line seamlessly. A simple plot, with moments of intense
-      drama and grief, Murakami has created a truly stunny masterpiece.
+      drama and grief.
       `
     },
     {
@@ -46,8 +41,7 @@ export const bookReviewsData = [
       tags: ["fiction"],
       description: `
       The concept is really fascinating and brings out the fear and potential reality of books being tabboo in society. The symbolism
-      of fire initially sparks the idea of destruction but later brings forward warmth and light - a compelling contrast. My only critique
-      is the overuse of repetition in this book.
+      of fire initially sparks the idea of destruction but later brings forward warmth and light - a compelling contrast.
       `
     },
     {
@@ -73,8 +67,7 @@ export const bookReviewsData = [
       allegory for dementia. I found it interesting how the citizens, including the protaginist,
       play a role in the disappearance of items through their compliance. Even towards the end as
       everyone begins losing body parts, the protaginist does not appear to be in utter distress but rather
-      nonchalant about the idea of being reduced to a singular voice. I rate this a 3.5 because I felt some parts
-      of the story was slow-moving and redundant but the overall concept was interesting.
+      nonchalant about the idea of being reduced to a singular voice.
       `
     },
     {
@@ -97,8 +90,7 @@ export const bookReviewsData = [
       tags: ["fiction"],
       description: `
       This science fiction novel portrays a realistic story through combining physics concepts with human motivations.
-      I found some parts of the novel intriguing, especially the character Ye, and i enjoyed the overall premise. I may consider
-      reading the rest of the series.
+      I found some parts of the novel intriguing, especially the character Ye, and i enjoyed the overall premise.
       `
     },
     {
@@ -132,8 +124,7 @@ export const bookReviewsData = [
       rating: 2,
       tags: ["non-fiction"],
       description: `
-      The ideas, concept and science of fungi life is increidbly interesting. However, to me the book fell short of the actual facts and science
-      and seems to go into too much dramatization of the ideas. I felt quite disappointed reading this.
+      The ideas, concept and science of fungi life is increidbly interesting. It makes me want to learn more about this topic.
       `
     },
     {
