@@ -136,4 +136,14 @@ export const bookReviewsData = [
       and seems to go into too much dramatization of the ideas. I felt quite disappointed reading this.
       `
     },
+    {
+      title: "Atlas of AI",
+      author_firstname: "Kate",
+      author_lastname: "Crawford",
+      rating: 3.5,
+      tags: ["non-fiction"],
+      description: `
+      Very informative on the labour and environmental costs of creating AI, as well as the biases that arise from AI.
+      `
+    },
   ];

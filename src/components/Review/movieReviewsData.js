@@ -91,11 +91,30 @@ export const movieReviewsData = [
     },
     {
         title: "Dunkirk",
-        rating: 3.5,
+        rating: 4,
         year: 2017,
         description: `
         I was completely engrossed the entire movie as Nolan captured and carried and sense of suspense all throughout the film. What makes Dunkirk unique is that it presents the
         ongoing chaos and having to always keep moving in order to survive.
+        `
+    },
+    {
+        title: "Good Will Hunting",
+        rating: 3.5,
+        year: 1997,
+        description: `
+        Not bad. Though I would contend with how realitic the characters are in how they act, the movie overall quite entertaining.
+        `
+    },
+    {
+        title: "Poor Things",
+        rating: null,
+        year: 2023,
+        description: `
+        I have no clue how to rate this film. I did enjoy the overall artistry and characters. The overall idea seems to be Emma Stone's character
+        "breaking free from societal norms" as she discovers her sexuality. The part that I really take issue with is that the main character technically has
+        the brain of a child and there was one scene where she has sex in front of children - this along with the film's obscenity makes me question the writer's intentions.
+        I think this movie is slightly over-glorified.
         `
     },
 ]
